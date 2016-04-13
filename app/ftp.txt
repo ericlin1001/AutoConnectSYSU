@@ -1,0 +1,6 @@
+eric
+eric
+cd apk
+binary
+put app-release.apk
+quit
